@@ -1,0 +1,11 @@
+This is my first dashboard where I not only did analysis but also forecasted the sales for next 15 days. Here are the few steps I did:
+1. Downloaded a dataset from kaggle.
+2. Did some necessary cleaning and imported the data in Power BI.
+3. Then, started analysing the data I just cleaned.
+4. You can find the dashboard [here](https://app.powerbi.com/links/jf51b0qOBU?ctid=b6d87d95-f34b-42ef-925d-9c7e8ec612ba&pbi_source=linkShare)
+6. Finally, I concluded that:
+The total sales is 1.6 Million and the profit 175 Thousand for 2019 and 2020.
+Consumer segment added more to the sales in both these years. Whereas, the category office supplies had more sales but the category technology gave more profit.
+Sales have increased over the years and December remained prominent in both years.
+People chose Standard Class more to get their orders shipped.
+And as we know Cash on Delivery has always been a risky payment mode. We also saw how there were more orders returned on COD as payment mode.
